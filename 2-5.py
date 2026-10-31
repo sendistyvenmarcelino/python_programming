@@ -1,0 +1,1 @@
+print('John Lennon once said, "Imagine all the people living life in peace."')
